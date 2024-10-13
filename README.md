@@ -17,7 +17,7 @@ This Arduino-based project detects environmental pollution by measuring **CO2 le
 - **Jumper wires and Breadboard**
 
 ## Circuit Diagram
-![Circuit Diagram](./https://github.com/WhyRed-V/Air-Pollution-and-Sound-Detector/blob/main/arduinoDesg.pdf)
+![Circuit Diagram](https://github.com/WhyRed-V/Air-Pollution-and-Sound-Detector/blob/main/arduinoDesg_page-0001.jpg)
 
 ### Connections:
 1. **MQ135 Sensor**:
