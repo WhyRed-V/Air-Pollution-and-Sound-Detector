@@ -54,6 +54,3 @@ This Arduino-based project detects environmental pollution by measuring **CO2 le
 1. Connect all components as per the circuit diagram.
 2. Upload the provided code to your Arduino board.
 3. Open the serial monitor at 9600 baud rate to observe sensor calibration and live data.
-
-## License
-This project is licensed under the MIT License.
